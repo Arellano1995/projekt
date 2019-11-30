@@ -1,0 +1,5 @@
+Kit Kat 	$15 MXN
+Ferrero 	$20 MXN
+Coca Cola	$12 MXN
+
+Total		$47 MXN

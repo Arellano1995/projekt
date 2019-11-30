@@ -27,5 +27,7 @@ class Stock(models.Model):
         self.save()
 
     def __str__(self):
+        #return self.producto + self.stock_actual
+        #return '%s %s' % (self.producto, self.stock_actual)
         return str(self.producto)
 
